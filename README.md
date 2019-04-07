@@ -1,6 +1,6 @@
 # Animation-Programming
 
-![Screenshot of the application](Animation-Programming/Screenshots/screenshot_01.png)
+![alt text](https://github.com/BenjaminViranin/Animation-Programming/blob/master/AnimationProgramming/Screenshots/screenshot_01.png)
 
 ## Description
 
