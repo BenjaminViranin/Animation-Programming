@@ -1,6 +1,6 @@
 # Animation-Programming
 
-![Screenshot of the application](Screenshots/screenshot_01.png)
+![Screenshot of the application](Animation-Programming/Screenshots/screenshot_01.png)
 
 ## Description
 
