@@ -30,7 +30,7 @@
     <ClInclude Include="include\Transform.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TextTools.h">
+    <ClInclude Include="include\TextTools.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -50,7 +50,7 @@
     <ClCompile Include="src\Transform.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TextTools.cpp">
+    <ClCompile Include="src\TextTools.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
