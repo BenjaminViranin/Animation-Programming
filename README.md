@@ -1,6 +1,6 @@
 # Animation-Programming
 
-![alt text](https://github.com/BenjaminViranin/Animation-Programming/blob/master/AnimationProgramming/Screenshots/screenshot_01.png)
+![alt text](https://media.giphy.com/media/tHyK6A6OShmoT4qZIv/giphy.mp4)
 
 ## Description
 
